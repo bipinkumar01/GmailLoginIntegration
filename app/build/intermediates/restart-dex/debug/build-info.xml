@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="17"
+    density="hdpi"
+    format="7"
+    timestamp="11476512428346" >
+
+    <task
+        name="javac"
+        duration="8596" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3119" />
+    <task
+        name="verifier"
+        duration="701" />
+
+    <artifact
+        location="C:\Users\Bipin\Desktop\Project\GmailLogin\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="11476512428346" >
+        <artifact
+            location="C:\Users\Bipin\Desktop\Project\GmailLogin\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
